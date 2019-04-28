@@ -1,0 +1,13 @@
+body {
+  text-align: Center;
+  background: url("images/01.jpg");
+  background-size: cover;
+  color: #000;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
