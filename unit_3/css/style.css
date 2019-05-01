@@ -4,18 +4,21 @@ body {
   color: #ffffff;
   font-family: Helvetica;
 }
-h1 {
+h1, h3 {
 	font-weight: bold;
+	font-size: 30px;
 }
 
 #second {
-	font-weight: bold;
+	font-size: 20px;
+	font-style: italic;
 }
 
 hr {
   width: 500px;
 }
+
 p {
   font-family: "courier new", monospace;
-  font-size: 18px;
+  font-size: 15px;
 }
