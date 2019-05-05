@@ -1,5 +1,5 @@
 body {
-  text-align: Center;
+  text-align: left;
   background-color: black;
   color: #ffffff;
 }
@@ -12,11 +12,9 @@ h1, h3 {
 #second {
 	font-size: 20px;
 	font-style: italic;
+	text-decoration: underline;
 }
 
-hr {
-  width: 500px;
-}
 
 p {
   font-family: "courier new", monospace;
