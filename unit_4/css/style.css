@@ -1,6 +1,4 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Rufina&display=swap');
-</style>
+@import url(https://fonts.googleapis.com/css?family=Rufina&display=swap);
 
 body {
   text-align: left;
@@ -8,7 +6,7 @@ body {
   color: #ffffff;
 }
 h1, h3 {
-	font-family: "Rufina";
+	font-family: 'Rufina', serif;
 	font-weight: bold;
 	font-size: 30px;
 }
